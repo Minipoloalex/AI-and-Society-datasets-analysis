@@ -1,5 +1,7 @@
 """
-First, you need to convert the .md table to latex using https://tableconvert.com/markdown-to-latex
+First, you need to convert the .md table to latex using https://tableconvert.com/markdown-to-latex.
+Then, place the output inside the file "output_latex_table.txt".
+Afterwards, this script will handle bolding the text as expected, replacing the table at the same file.
 
 Instead of running this script, you could also use the "Find and Replace" tool from VSCode.
 """
